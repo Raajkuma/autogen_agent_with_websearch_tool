@@ -1,0 +1,4 @@
+ddgs
+streamlit
+autogen-agentchat
+autogen-ext[openai]
